@@ -1,3 +1,3 @@
 # Lunar-calendar
-Ứng dụng xem lịch âm đơn giản cho điện thoại Android
-<img src="screenshot/screenshot.jpg" />
+<h4>Ứng dụng xem lịch âm đơn giản cho điện thoại Android</h4>
+<img src="screenshot/screenshot.jpg" width="350px" style="margin:5px"/>
